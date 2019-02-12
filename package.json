@@ -1,0 +1,20 @@
+{
+  "name": "douyu",
+  "version": "1.0.0",
+  "description": "douyuchoujiang",
+  "main": "main.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "fuquanmeng",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^3.2.0"
+  },
+  "dependencies": {}
+}
