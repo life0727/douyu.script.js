@@ -11,6 +11,7 @@ var main = () => {
     //获取并打开抽奖房间
     openRoomList();
 };
+//init
 main();
 //总循环
 setInterval(() => {
