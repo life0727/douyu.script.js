@@ -13,6 +13,7 @@ var main = () => {
 };
 
 //init
+
 main();
 //总循环
 setInterval(() => {
